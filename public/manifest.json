@@ -1,0 +1,13 @@
+﻿{
+  "name": "ของอยู่ไหนนะ",
+  "short_name": "maee",
+  "description": "ค้นหาของในบ้านด้วยรูปภาพ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1208",
+  "theme_color": "#1a1208",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
